@@ -1,9 +1,7 @@
-
-<h2> Who I am I ?  😀 😃 😄 <h2/>
-I am Ahmad Salah and I am a full-stack developer with successful experience in web applications and system analysis to implement
-good user interface using javascript-frameworks and MERN technologies, and the strength in back end
-using the node js, express, API, NPM modules, Postgress, MongoDB, and testing, besides experience in
-React, and React-native to develop mobile applications for android and IOS platform, Wellcome to my dream,and  do not hesitate to get me feedback any time in my network`s or social media
+<table border=0>
+  <tr border=0>
+    <td border=0>
+<h5 font='roboto'> Wellcome to my dream, conect me in my network`s or social media</h5>
  <a href='https://www.linkedin.com/in/ahmad-salah-2517b679/'>
  <img align="left"  alt="ahmad salah | LinkedIn" width="40px" height='40px' src="https://i.imgur.com/UKV5KYF.png" />
  </a>
@@ -21,15 +19,8 @@ React, and React-native to develop mobile applications for android and IOS platf
       </a>
                  <a href='https://discord.gg/Jqmccb'>
  <img align="left"  alt="ahmad salah | gmail" width="40px" height='40px' src="https://i.imgur.com/mNOi1Ez.png" />
-                     </a>  
-        <br/>
-        <br/>
-        <br/>
-
-<table border=0>
-  <tr border=0>
-    <td border=0>
-   
+      </a>  
+      <br/>
       <h2>Skills</h2>
  <img align="left"  alt="ahmad salah width="50px" height='50px' src="https://i.imgur.com/paxvoXx.png" />
  <img align="left"  alt="ahmad salah width="50px" height='50px' src="https://i.imgur.com/h6aqmdr.png" />
