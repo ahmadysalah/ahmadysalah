@@ -36,9 +36,10 @@
 <img align="left"  alt="ahmad salah width="50px" height='50px' src="https://i2.wp.com/service.apiaudio.com/wp-content/uploads/2017/10/api-logo.png?ssl=1" />
 <img align="left"  alt="ahmad salah width="50px" height='50px' src="https://www.tomsquest.com/img/posts/2018-10-02-better-npm-ing/npm_logo.png"/>
 <img align="left"  alt="ahmad salah width="50px" height='50px' src="https://www.codeplusinfo.com/wp-content/uploads/2020/02/react-native-logo-e1581157043920.png" />
-<img align="left"  alt="ahmad salah width="50px" height='50px' src="https://www.octalsoftware.com/images/ux-ui-logo.png" />
+<img align="left"  alt="ahmad salah width="50px" height='50px' src="https://i.imgur.com/6zcZb8U.png" />
 <img align="left"  alt="ahmad salah width="50px" height='50px' src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" />
 <img align="left"  alt="ahmad salah width="50px" height='50px' src="https://material-ui.com/static/logo.png" />
+<img align="left"  alt="ahmad salah width="50px" height='50px' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
     </td>
      <td border=0>
       <img src='https://thumbs.gfycat.com/CalmKeyEidolonhelvum-small.gif'/>
